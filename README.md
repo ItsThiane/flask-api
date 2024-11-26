@@ -7,12 +7,12 @@ Taskmap est une API Flask qui permet de gérer des utilisateurs et leurs tâches
 
 
 
-Fonctionnalités principales
+  Fonctionnalités principales
 
--Ajouter des utilisateurs à la base de données.
--Créer, mettre à jour, supprimer et récupérer des tâches associées à un utilisateur.
+-  Ajouter des utilisateurs à la base de données.
+-  Créer, mettre à jour, supprimer et récupérer des tâches associées à un utilisateur.
 
-Connexion à la base de données via MySQL Connector.
+  Connexion à la base de données via MySQL Connector.
 
 
 Prérequis
