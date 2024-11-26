@@ -16,15 +16,15 @@ Connexion à la base de données via MySQL Connector.
 
 
 Prérequis
--Docker
--Docker Compose
+-  Docker
+-  Docker Compose
 
 
 
 Instructions pour déployer l'application
 
 Les identifiants de connexion et le nom de la base de données utilisés par l'API sont définis dans le fichier docker-compose.yml.
-Une fois les conteneurs démarrés, vous devez créer manuellement les tables nécessaires.
+
 
 Pour démarrer les conteneurs
 
